@@ -1,0 +1,37 @@
+]0;~/Documents/nettside[?1034hSveinungs-MBP:nettside sveinungarnesen$ [KSveinungs-MBP:nettside sveinungarnesen$ hugo version
+bash: hugo: command not found
+]0;~/Documents/nettsideSveinungs-MBP:nettside sveinungarnesen$ cd..
+bash: cd..: command not found
+]0;~/Documents/nettsideSveinungs-MBP:nettside sveinungarnesen$ dir
+bash: dir: command not found
+]0;~/Documents/nettsideSveinungs-MBP:nettside sveinungarnesen$ dir/p
+bash: dir/p: No such file or directory
+]0;~/Documents/nettsideSveinungs-MBP:nettside sveinungarnesen$ cd //Users/sveinungarnesen/Documents/nettside[1P
+]0;~/Documents/nettsideSveinungs-MBP:nettside sveinungarnesen$ git status
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+]0;~/Documents/nettsideSveinungs-MBP:nettside sveinungarnesen$ git remote add origin https://github.com/SveinungA/nettside.git
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+]0;~/Documents/nettsideSveinungs-MBP:nettside sveinungarnesen$ git remote add origin https://github.com/SveinungA/nettside.gitSveinungs-MBP:nettside sveinungarnesen$ git status[K
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/[m
+	[31m.gitattributes[m
+	[31mconfig.toml[m
+	[31mcontent/[m
+	[31mindex.Rmd[m
+	[31mnettside.Rproj[m
+	[31mpublic/[m
+	[31mstatic/[m
+	[31mthemes/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;~/Documents/nettsideSveinungs-MBP:nettside sveinungarnesen$ git statusremote add origin https://github.com/SveinungA/nettside.git
+]0;~/Documents/nettsideSveinungs-MBP:nettside sveinungarnesen$ git push origin master
+error: src refspec master does not match any.
+error: failed to push some refs to 'https://github.com/SveinungA/nettside.git'
+]0;~/Documents/nettsideSveinungs-MBP:nettside sveinungarnesen$ 
