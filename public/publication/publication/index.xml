@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Sveinung Arnesen</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Sveinung Arnesen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Legitimacy of Representation: : How Descriptive, Formal, and Responsiveness Representation Affect the Acceptability of Political Decisions.</title>
+      <link>/publication/legitimacy-representation/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/legitimacy-representation/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Legitimacy from Decision-Making Influence and Outcome Favourability: Results from General Population Survey Experiments</title>
+      <link>/publication/legitimacy-influence/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/legitimacy-influence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
