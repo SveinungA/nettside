@@ -1,6 +1,6 @@
 +++
 title = "Do Polls Influence Opinions? Investigating Poll Feedback Loops Using the Novel Dynamic Response Feedback Experimental Procedure"
-date = "2017-9-26"
+date = "2017-01-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sveinung Arnesen", "Mikael P. Johannesson", "Jonas Linde", "Stefan Dahlberg"]
@@ -62,4 +62,3 @@ image = ""
 caption = ""
 
 +++
-
