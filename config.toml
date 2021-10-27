@@ -63,7 +63,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "sveinung.arnesen@uni.no"
+  email = "sveinung.arnesen@norceresearch.no"
   address = "D-U109, Nygårdsgaten 112, 5007 Bergen, Norway"
   phone = "+47 55582558"
 

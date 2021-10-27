@@ -14,7 +14,8 @@ weight = 5
     "Legitimacy of political decision-making procedures",   
     "Prediction markets",  
     "Public opinion",
-    "Survey experiments"
+    "Experimental methods",
+    "Data science"
   ]
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -27,5 +28,5 @@ weight = 5
 # Hi!
 
 My name is Sveinung, and I am a political scientist whose research revolves around democratic theory, public opinion, and electoral behavior.
-I am the Norwegian national coordinator of the [European Social Survey](www.europeansocialsurvey.org).
-I also lead a research group on democracy and innovation, which conducts research on democratic legitimacy.
+I am the Norwegian national coordinator of the ![European Social Survey](www.europeansocialsurvey.org).
+I also lead a research group on democracy and innovation, focusing on experimental methods.
