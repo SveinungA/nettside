@@ -24,6 +24,8 @@ weight = 5
 
 +++
 
-# Bio
+# Hi!
 
-I am a Senior Researcher at the Uni Research Rokkan Centre, Norway, and Associate Professor II at the Department of Comparative Politics, University of Bergen. Sveinung’s research revolves around democratic theory, public opinion, and electoral behavior, with a main methodological focus on survey experiments. He currently leads the project *Can Fair Decision Making Procedures Increase The Legitimacy of Democracies?*, and coordinates the research group on Political Behavior and Democracy at the Digital Social Science Core Facilities (DIGSSCORE). His research appears in journals such as the *Comparative Political Studies*, *Electoral Studies*, *International Journal of Forecasting*, *Political Studies*, and *Social Science Computer Review*.
+My name is Sveinung, and I am a political scientist whose research revolves around democratic theory, public opinion, and electoral behavior.
+I am the Norwegian national coordinator of the [European Social Survey](www.europeansocialsurvey.org).
+I also lead a research group on democracy and innovation, which conducts research on democratic legitimacy.
