@@ -26,6 +26,6 @@ weight = 5
 
 # Hi!
 
-My name is Sveinung, and I am a political scientist whose research revolves around democratic theory, public opinion, and electoral behavior.
-I am the Norwegian national coordinator of the [European Social Survey](www.europeansocialsurvey.org).
+My name is Sveinung, and I am a political scientist whose research revolves around democracy, public opinion, and elections.
+I am the Norwegian national coordinator of the European Social Survey.
 I also lead a research group on democracy and innovation, focusing on survey experimental research.
