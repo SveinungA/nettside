@@ -10,7 +10,7 @@ title = "The European Prediction Market Infrastructure for Political Events - EP
 summary = "The European Prediction Market Infrastructure for Political Elections develops and facilitates the use of prediction market software for research purposes in relation to elections and other political events. The software has been employed to Norwegian national elections, German national elections, Spanish national and regional government formations, and to Swiss national elections and popular votes."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "wall-4.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
