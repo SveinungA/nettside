@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="UNI Research Stein Rokkan Centre for Social Research", url="https://uniresearch.no/"}, {name="University of Bergen", url="https://uib.no"} ]`.
-  organizations = [ {name="UNI Research Stein Rokkan Centre for Social Research", url="https://uniresearch.no/"}, {name="University of Bergen", url="https://uib.no"} ]
+  organizations = [ {name="NORCE - Norwegian Research Centre", url="https://norceresearch.no/"}, {name="University of Bergen", url="https://uib.no"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
