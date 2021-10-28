@@ -17,7 +17,7 @@ image_preview = "wall-2.png"
 tags = ["democratic behavior", "survey experiments"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "procedural-legitimacy.com"
 
 # Does the project detail page use math formatting?
 math = false
