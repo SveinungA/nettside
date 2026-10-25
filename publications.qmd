@@ -1,0 +1,21 @@
+---
+title: "Publications"
+description: "Journal articles by Sveinung Arnesen, with publication links, open versions, and downloadable BibTeX."
+page-layout: full
+body-classes: publications-page
+---
+
+Journal articles on democratic legitimacy, public opinion, AI in government, and election forecasting. Use the search and filters to explore the list.
+
+::: {.publication-intro-links}
+[Download BibTeX](files/publications.bib){.button-outline download="sveinung-arnesen-publications.bib"}
+[Google Scholar ↗](https://scholar.google.com/citations?user=xz8JwjAAAAAJ){.text-link}
+[Research record in NVA ↗](https://nva.sikt.no/research-profile/47571){.text-link}
+:::
+
+{{< include _includes/publication-list.qmd >}}
+
+::: {.publication-footnote}
+Publication details follow the journal issue where available; the year of first online publication is also shown when different. “Open version” links lead to a publisher or institutional repository. Book chapters, reports, and other outputs are available in [NVA](https://nva.sikt.no/research-profile/47571).
+:::
+

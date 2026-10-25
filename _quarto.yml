@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - publications.qmd
+    - cv.qmd
+    - 404.qmd
+  pre-render: scripts/build-publications.ts
+  resources:
+    - assets/
+    - files/publications.bib
+
+website:
+  title: Sveinung Arnesen
+  description: Political scientist studying democratic legitimacy, public opinion, and artificial intelligence in government.
+  site-url: https://sveinunga.github.io/nettside/
+  repo-url: https://github.com/SveinungA/nettside
+  favicon: assets/favicon.svg
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    title: Sveinung Arnesen
+    background: light
+    collapse-below: lg
+    left: []
+    right:
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: index.qmd#contact
+        text: Contact
+  page-footer:
+    left: "© Sveinung Arnesen"
+    right:
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=xz8JwjAAAAAJ
+      - text: ORCID
+        href: https://orcid.org/0000-0002-2825-0664
+      - text: GitHub
+        href: https://github.com/SveinungA
+
+format:
+  html:
+    lang: en
+    theme:
+      - default
+      - assets/theme.scss
+    css: assets/styles.css
+    toc: false
+    title-block-banner: false
+    anchor-sections: true
+    smooth-scroll: false
+    include-after-body: _includes/scripts.html
+
+execute:
+  echo: false
+  warning: false
+  message: false
+

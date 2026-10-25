@@ -1,0 +1,7 @@
+---
+title: "Page not found"
+search: false
+---
+
+The page may have moved. Browse the [homepage](index.qmd), [research](research.qmd), or [publication list](publications.qmd), or use the site search.
+

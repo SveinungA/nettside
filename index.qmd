@@ -1,0 +1,112 @@
+---
+title: ""
+pagetitle: "Sveinung Arnesen — Political scientist"
+description: "Research on democratic legitimacy, public opinion, and artificial intelligence in government."
+page-layout: full
+body-classes: home-page
+title-block-style: none
+---
+
+::: {.hero}
+::: {.hero-copy}
+[Political scientist · Bergen, Norway]{.eyebrow}
+
+# Sveinung<br>Arnesen {.hero-title}
+
+[I study how people judge public decisions—and what makes those decisions legitimate.]{.hero-intro}
+
+My research connects democracy, public opinion, and artificial intelligence in government.
+
+::: {.hero-actions}
+[Explore my research](research.qmd){.button-primary}
+[View publications ↗](publications.qmd){.text-link}
+:::
+:::
+
+::: {.hero-portrait}
+![Sveinung Arnesen](assets/portrait.jpg){width=589 height=589 .portrait fig-alt="Portrait of Sveinung Arnesen"}
+
+[Research Professor, NORCE<br>Professor, University of Bergen]{.portrait-caption}
+:::
+:::
+
+::: {.affiliation-strip}
+[NORCE](https://www.norceresearch.no/en/persons/sveinung-arnesen/977)
+
+[University of Bergen](https://www4.uib.no/en/find-employees/sveinung.arnesen)
+
+[European Social Survey · National Coordinator, Norway](https://www.europeansocialsurvey.org/)
+:::
+
+::: {.section-intro}
+[About my work]{.eyebrow}
+
+## Understanding the citizen’s perspective
+
+I am a Research Professor at NORCE and a Professor at the Department of Government, University of Bergen. I also coordinate the European Social Survey in Norway.
+
+My work examines democratic legitimacy, political behaviour, and public opinion. I use survey experiments, deliberative polls, and other quantitative methods to understand how citizens respond to decision-making procedures, political outcomes, and new technologies.
+:::
+
+::: {.research-grid}
+::: {.research-topic}
+[01]{.topic-number}
+
+### Democratic legitimacy
+
+What makes a decision acceptable—including to the people who disagree with its outcome? I study representation, referendums, procedural fairness, and political loss.
+
+[Democracy and legitimacy →](research.qmd#democratic-legitimacy)
+:::
+
+::: {.research-topic}
+[02]{.topic-number}
+
+### AI and public decisions
+
+How does the use of AI change citizens’ views of government? My research examines fairness, acceptance, and the relationship between citizens and public employees.
+
+[AI and governance →](research.qmd#ai-and-governance)
+:::
+
+::: {.research-topic}
+[03]{.topic-number}
+
+### Public opinion and participation
+
+How are opinions formed, measured, and changed? My work includes survey methodology, deliberation, political participation, and election forecasting.
+
+[Opinion and participation →](research.qmd#public-opinion-and-participation)
+:::
+:::
+
+::: {.section-heading}
+::: {}
+[From my research]{.eyebrow}
+
+## Selected publications
+:::
+
+[All publications ↗](publications.qmd){.text-link}
+:::
+
+{{< include _includes/selected-publications.qmd >}}
+
+::: {#contact .contact-section}
+::: {}
+[Get in touch]{.eyebrow}
+
+## Contact
+
+For research enquiries, collaboration, and questions about my work.
+:::
+
+::: {.contact-details}
+[sarn@norceresearch.no](mailto:sarn@norceresearch.no)
+
+[sveinung.arnesen@uib.no](mailto:sveinung.arnesen@uib.no)
+
+Bergen, Norway
+:::
+:::
+
