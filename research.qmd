@@ -1,0 +1,59 @@
+---
+title: "Research"
+description: "Democratic legitimacy, AI in government, public opinion, and selected research projects."
+---
+
+[Questions, methods, and projects]{.eyebrow}
+
+My research examines how citizens experience democratic decision-making: who makes decisions, how the process works, and what happens when the outcome goes against their preferences.
+
+## Democratic legitimacy
+
+I study the conditions under which citizens accept collective decisions. This includes descriptive representation, referendums, participation, and the importance of fair procedures and responses to political loss.
+
+The **PROLEG** project examined how decision-making procedures can strengthen the legitimacy of democratic institutions. This work connects survey experiments with questions about representation, influence, and the acceptance of unfavourable outcomes.
+
+[Related publications](publications.html?topic=Democratic%20legitimacy){.text-link}
+
+## AI and governance
+
+Public institutions increasingly use AI to support decisions about citizens. My work asks how this changes perceptions of fairness, acceptance, and the relationship between citizens and the people who deliver public services.
+
+### fAIrgov · Public Fairness Perceptions of Algorithmic Governance
+
+[2021–2025 · Research Council of Norway]{.project-meta}
+
+I led this project on citizens’ perceptions of algorithmic decision-making, working with colleagues at NORCE, the University of Bergen, and Stanford University. The research combined deliberative polling and survey experiments to examine fairness and legitimacy in public-sector uses of AI.
+
+[Project at NORCE ↗](https://www.norceresearch.no/en/projects/public-fairness-perceptions-of-algorithmic-governance){.text-link}
+
+### Demokratiske algoritmer
+
+This project examined how increased automation in public administration affects perceptions of legitimacy and fairness, with a focus on NAV. It used survey experiments in the Norwegian Citizen Panel to study citizens’ responses to automated decision-making.
+
+[Related publications](publications.html?topic=AI%20and%20governance){.text-link}
+
+## Public opinion and participation
+
+I use survey experiments and deliberative methods to study how people form and revise their views. Related work examines election forecasting, opinion polls, political participation, and the effects of information.
+
+### SCORE · Understanding societal conflict in consumption reduction
+
+[2023–2028 · Research Council of Norway]{.project-meta}
+
+I am part of SCORE, which studies public responses to measures that reduce consumption. The project examines opposition, social identity, and the potential for polarisation, using experimental surveys and deliberative methods.
+
+[Project at NORCE ↗](https://www.norceresearch.no/en/projects/understanding-societal-conflict-in-consumption-reduction-score){.text-link}
+
+### European Social Survey, Norway
+
+As Norway’s National Coordinator, I contribute to the delivery of the European Social Survey: a cross-national research infrastructure that measures attitudes, beliefs, and behaviour across Europe.
+
+[European Social Survey ↗](https://www.europeansocialsurvey.org/){.text-link}
+
+### EPIPE · European Prediction Market Infrastructure for Political Events
+
+Earlier work developed and supported prediction-market infrastructure for research on elections and other political events, with applications in Norway, Germany, Spain, and Switzerland.
+
+[Election forecasting publications](publications.html?topic=Forecasting){.text-link}
+

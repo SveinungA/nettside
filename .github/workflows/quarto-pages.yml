@@ -1,0 +1,61 @@
+name: Build and publish Quarto website
+
+on:
+  pull_request:
+    branches: [master]
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: quarto-pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Render and check website
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v7
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: '1.10.19'
+      - name: Render website
+        run: quarto render
+      - name: Check local links and publication coverage
+        run: quarto run scripts/check-site.ts
+      - name: Check generated publication files are current
+        run: git diff --exit-code -- _includes/publication-list.qmd _includes/selected-publications.qmd files/publications.bib
+      - name: Save website preview
+        uses: actions/upload-artifact@v7
+        with:
+          name: quarto-website
+          path: _site/
+          retention-days: 14
+      - name: Prepare GitHub Pages artifact
+        if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site/
+
+  deploy:
+    name: Publish to GitHub Pages
+    if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v5
+

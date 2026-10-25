@@ -1,0 +1,1135 @@
+{
+  "schema_version": 1,
+  "checked": "2026-10-25",
+  "scope": "Journal articles listed in the NORCE and UiB profiles; excludes chapters, reports, talks, theses, and duplicate preprints.",
+  "scholar_profile": "https://scholar.google.com/citations?user=xz8JwjAAAAAJ",
+  "discovery_sources": [
+    "https://www.norceresearch.no/en/persons/sveinung-arnesen/977",
+    "https://www4.uib.no/finn-ansatte/sveinung.arnesen"
+  ],
+  "publications": [
+    {
+      "id": "ai-public-employees",
+      "title": "Artificial Intelligence in Government Weakens Citizens’ Affective Ties With Public Employees: Results From a Vignette Experiment",
+      "authors": [
+        {
+          "given": "Pascal D.",
+          "family": "Koenig"
+        },
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        }
+      ],
+      "year": 2026,
+      "online_year": 2026,
+      "institutional_record_year": 2026,
+      "journal": "Social Science Computer Review",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "article_number": "",
+      "doi": "10.1177/08944393261461566",
+      "url": "https://doi.org/10.1177/08944393261461566",
+      "open_access_url": "https://nva.sikt.no/registration/019f467a0642-5643241d-1e21-49e2-b28b-1dbab75c7e65",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/019f467a0642-5643241d-1e21-49e2-b28b-1dbab75c7e65",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "file": "koenig-arnesen-2026-artificial-intelligence-in-government-weakens-citizens-affective-ties-with-public-employees-results.pdf"
+        }
+      ],
+      "topics": [
+        "AI and governance"
+      ],
+      "selected": true,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/019f467a0642-5643241d-1e21-49e2-b28b-1dbab75c7e65",
+        "https://api.crossref.org/works/10.1177/08944393261461566"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "procedural-fairness-ai",
+      "title": "Transparency, neutrality, voice, and respect: How procedural fairness considerations affect AI acceptability in algorithmic societies",
+      "authors": [
+        {
+          "given": "Pedro C.",
+          "family": "Magalhães"
+        },
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Christoph",
+          "family": "Kern"
+        },
+        {
+          "given": "Pascal D.",
+          "family": "Koenig"
+        },
+        {
+          "given": "Daniel S.",
+          "family": "Schiff"
+        },
+        {
+          "given": "Tom R.",
+          "family": "Tyler"
+        }
+      ],
+      "year": 2026,
+      "online_year": null,
+      "institutional_record_year": 2026,
+      "journal": "Technology in Society",
+      "volume": "87",
+      "issue": "",
+      "pages": "",
+      "article_number": "103398",
+      "doi": "10.1016/j.techsoc.2026.103398",
+      "url": "https://doi.org/10.1016/j.techsoc.2026.103398",
+      "open_access_url": "https://nva.sikt.no/registration/019ed4617686-9a8399a8-c070-4396-b10a-5bdf26368c08",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/019ed4617686-9a8399a8-c070-4396-b10a-5bdf26368c08",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "file": "1-s2.0-S0160791X26001879-main.pdf"
+        }
+      ],
+      "topics": [
+        "AI and governance",
+        "Democratic legitimacy"
+      ],
+      "selected": true,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/019ed4617686-9a8399a8-c070-4396-b10a-5bdf26368c08",
+        "https://api.crossref.org/works/10.1016/j.techsoc.2026.103398"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "beyond-the-ballot",
+      "title": "Beyond the Ballot: The Impact of Voting Margin and Turnout on the Legitimacy of Referendum Outcomes in Europe",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Troy Saghaug",
+          "family": "Broderstad"
+        },
+        {
+          "given": "Mikael P",
+          "family": "Johannesson"
+        },
+        {
+          "given": "Jonas",
+          "family": "Linde"
+        }
+      ],
+      "year": 2025,
+      "online_year": 2024,
+      "institutional_record_year": 2024,
+      "journal": "Political Studies",
+      "volume": "73",
+      "issue": "2",
+      "pages": "795-816",
+      "article_number": "",
+      "doi": "10.1177/00323217241266025",
+      "url": "https://doi.org/10.1177/00323217241266025",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc692843-78a13066-6e63-4bb5-bdf4-5196a5026029",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc692843-78a13066-6e63-4bb5-bdf4-5196a5026029",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by/4.0",
+          "file": "arnesen-et-al-2024-beyond-the-ballot-the-impact-of-voting-margin-and-turnout-on-the-legitimacy-of-referendum-outcomes.pdf"
+        }
+      ],
+      "topics": [
+        "Democratic legitimacy"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc692843-78a13066-6e63-4bb5-bdf4-5196a5026029",
+        "https://api.crossref.org/works/10.1177/00323217241266025"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "ai-deliberative-poll",
+      "title": "Knowledge and support for AI in the public sector: a deliberative poll experiment",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Troy Saghaug",
+          "family": "Broderstad"
+        },
+        {
+          "given": "James S.",
+          "family": "Fishkin"
+        },
+        {
+          "given": "Mikael Poul",
+          "family": "Johannesson"
+        },
+        {
+          "given": "Alice",
+          "family": "Siu"
+        }
+      ],
+      "year": 2025,
+      "online_year": 2024,
+      "institutional_record_year": 2024,
+      "journal": "AI & SOCIETY",
+      "volume": "40",
+      "issue": "5",
+      "pages": "3573-3589",
+      "article_number": "",
+      "doi": "10.1007/s00146-024-02104-w",
+      "url": "https://doi.org/10.1007/s00146-024-02104-w",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc6392cc-6acbb88b-4c7e-47bf-a298-83617f997b92",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc6392cc-6acbb88b-4c7e-47bf-a298-83617f997b92",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by/4.0",
+          "file": "article.pdf"
+        }
+      ],
+      "topics": [
+        "AI and governance",
+        "Participation"
+      ],
+      "selected": true,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc6392cc-6acbb88b-4c7e-47bf-a298-83617f997b92",
+        "https://api.crossref.org/works/10.1007/s00146-024-02104-w"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "trustees-delegates",
+      "title": "Trustees, Delegates, and Direct Democracy: Exploring Mass‐Elite Incongruence in Perceptions of Advisory Referendums",
+      "authors": [
+        {
+          "given": "Troy Saghaug",
+          "family": "Broderstad"
+        },
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Mikael P.",
+          "family": "Johannesson"
+        },
+        {
+          "given": "Jonas",
+          "family": "Linde"
+        }
+      ],
+      "year": 2025,
+      "online_year": 2025,
+      "institutional_record_year": 2025,
+      "journal": "Scandinavian Political Studies",
+      "volume": "48",
+      "issue": "3",
+      "pages": "",
+      "article_number": "e70011",
+      "doi": "10.1111/1467-9477.70011",
+      "url": "https://doi.org/10.1111/1467-9477.70011",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc64d9e8-86a49e3f-c974-4e0a-b290-7ecb7a8ebc28",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc64d9e8-86a49e3f-c974-4e0a-b290-7ecb7a8ebc28",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "file": "Scand Pol Stud - 2025 - Broderstad - Trustees Delegates and Direct Democracy Exploring Mass‐Elite Incongruence in.pdf"
+        }
+      ],
+      "topics": [
+        "Democratic legitimacy"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc64d9e8-86a49e3f-c974-4e0a-b290-7ecb7a8ebc28",
+        "https://api.crossref.org/works/10.1111/1467-9477.70011"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "look-to-denmark",
+      "title": "Look to Denmark or not? An experimental study of the Social Democrats’ strategic choices",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Dag Arne",
+          "family": "Christensen"
+        },
+        {
+          "given": "Henning",
+          "family": "Finseraas"
+        }
+      ],
+      "year": 2023,
+      "online_year": null,
+      "institutional_record_year": 2023,
+      "journal": "Electoral Studies",
+      "volume": "84",
+      "issue": "",
+      "pages": "",
+      "article_number": "102629",
+      "doi": "10.1016/j.electstud.2023.102629",
+      "url": "https://doi.org/10.1016/j.electstud.2023.102629",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc831f2a-dc4a924d-2f60-4c2e-95bc-f7ebc98b2a2d",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc831f2a-dc4a924d-2f60-4c2e-95bc-f7ebc98b2a2d",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by/4.0",
+          "file": "1-s2.0-S0261379423000513-main.pdf"
+        }
+      ],
+      "topics": [
+        "Elections and opinion"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc831f2a-dc4a924d-2f60-4c2e-95bc-f7ebc98b2a2d",
+        "https://api.crossref.org/works/10.1016/j.electstud.2023.102629"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "gracious-political-loss",
+      "title": "How to be Gracious about Political Loss—The Importance of Good Loser Messages in Policy Controversies",
+      "authors": [
+        {
+          "given": "Peter",
+          "family": "Esaiasson"
+        },
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Hannah",
+          "family": "Werner"
+        }
+      ],
+      "year": 2023,
+      "online_year": 2022,
+      "institutional_record_year": 2022,
+      "journal": "Comparative Political Studies",
+      "volume": "56",
+      "issue": "5",
+      "pages": "599-624",
+      "article_number": "",
+      "doi": "10.1177/00104140221109433",
+      "url": "https://doi.org/10.1177/00104140221109433",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc71729f-81c91589-44f4-4136-abaa-9de96913adb8",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc71729f-81c91589-44f4-4136-abaa-9de96913adb8",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by/4.0",
+          "file": "esaiasson-et-al-2022-how-to-be-gracious-about-political-loss-the-importance-of-good-loser-messages-in-policy.pdf"
+        }
+      ],
+      "topics": [
+        "Democratic legitimacy"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc71729f-81c91589-44f4-4136-abaa-9de96913adb8",
+        "https://api.crossref.org/works/10.1177/00104140221109433"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "myth-of-legality",
+      "title": "Beyond the Myth of Legality? Framing Effects and Public Reactions to High Court Decisions in Europe",
+      "authors": [
+        {
+          "given": "Pedro C.",
+          "family": "Magalhães"
+        },
+        {
+          "given": "Jon K.",
+          "family": "Skiple"
+        },
+        {
+          "given": "Miguel M.",
+          "family": "Pereira"
+        },
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Henrik L.",
+          "family": "Bentsen"
+        }
+      ],
+      "year": 2023,
+      "online_year": 2023,
+      "institutional_record_year": 2023,
+      "journal": "Comparative Political Studies",
+      "volume": "56",
+      "issue": "10",
+      "pages": "1537-1566",
+      "article_number": "",
+      "doi": "10.1177/00104140231152769",
+      "url": "https://doi.org/10.1177/00104140231152769",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc4e1b12-802aa3f0-4fc9-41fb-abe0-e590abd065b7",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc4e1b12-802aa3f0-4fc9-41fb-abe0-e590abd065b7",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by/4.0",
+          "file": "00104140231152769.pdf"
+        }
+      ],
+      "topics": [
+        "Democratic legitimacy"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc4e1b12-802aa3f0-4fc9-41fb-abe0-e590abd065b7",
+        "https://api.crossref.org/works/10.1177/00104140231152769"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "electoral-reform",
+      "title": "Support for electoral system reform among voters and politicians: Studying information effects through survey experiments",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Johannes",
+          "family": "Bergh"
+        },
+        {
+          "given": "Dag Arne",
+          "family": "Christensen"
+        },
+        {
+          "given": "Bernt",
+          "family": "Aardal"
+        }
+      ],
+      "year": 2021,
+      "online_year": null,
+      "institutional_record_year": 2021,
+      "journal": "Electoral Studies",
+      "volume": "71",
+      "issue": "",
+      "pages": "",
+      "article_number": "102313",
+      "doi": "10.1016/j.electstud.2021.102313",
+      "url": "https://doi.org/10.1016/j.electstud.2021.102313",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc8ae0ce-e71353a8-ac43-41a1-a5f7-b75b0b568d05",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc8ae0ce-e71353a8-ac43-41a1-a5f7-b75b0b568d05",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by/4.0",
+          "file": "Electoral+studies+71+%282021%29.pdf"
+        }
+      ],
+      "topics": [
+        "Elections and opinion"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc8ae0ce-e71353a8-ac43-41a1-a5f7-b75b0b568d05",
+        "https://api.crossref.org/works/10.1016/j.electstud.2021.102313"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "conditional-legitimacy",
+      "title": "Conditional legitimacy: How turnout, majority size, and outcome affect perceptions of legitimacy in European Union membership referendums",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Troy S",
+          "family": "Broderstad"
+        },
+        {
+          "given": "Mikael P",
+          "family": "Johannesson"
+        },
+        {
+          "given": "Jonas",
+          "family": "Linde"
+        }
+      ],
+      "year": 2019,
+      "online_year": 2019,
+      "institutional_record_year": 2019,
+      "journal": "European Union Politics",
+      "volume": "20",
+      "issue": "2",
+      "pages": "176-197",
+      "article_number": "",
+      "doi": "10.1177/1465116518820163",
+      "url": "https://doi.org/10.1177/1465116518820163",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc3ef4a2-76174b99-f06e-4e7f-ab0d-787581e148fa",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc3ef4a2-76174b99-f06e-4e7f-ab0d-787581e148fa",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by-nc/4.0",
+          "file": "1465116518820163.pdf"
+        }
+      ],
+      "topics": [
+        "Democratic legitimacy"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc3ef4a2-76174b99-f06e-4e7f-ab0d-787581e148fa",
+        "https://api.crossref.org/works/10.1177/1465116518820163"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "candidate-characteristics",
+      "title": "Do citizens make inferences from political candidate characteristics when aiming for substantive representation?",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Dominik",
+          "family": "Duell"
+        },
+        {
+          "given": "Mikael Poul",
+          "family": "Johannesson"
+        }
+      ],
+      "year": 2019,
+      "online_year": null,
+      "institutional_record_year": 2019,
+      "journal": "Electoral Studies",
+      "volume": "57",
+      "issue": "",
+      "pages": "46-60",
+      "article_number": "",
+      "doi": "10.1016/j.electstud.2018.10.005",
+      "url": "https://doi.org/10.1016/j.electstud.2018.10.005",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc4597f8-c170b42b-b563-45f9-acf3-ac8c378606d2",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc4597f8-c170b42b-b563-45f9-acf3-ac8c378606d2",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by/4.0",
+          "file": "arnesenduelljohannesson2019jels.pdf"
+        }
+      ],
+      "topics": [
+        "Elections and opinion",
+        "Democratic legitimacy"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc4597f8-c170b42b-b563-45f9-acf3-ac8c378606d2",
+        "https://api.crossref.org/works/10.1016/j.electstud.2018.10.005"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "information-electoral-reform",
+      "title": "Påvirker det å bli informert om konsekvenser av endringer i stortingvalgordningen velgernes holdninger til den? En surveyeksperimentell tilnærming",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Johannes",
+          "family": "Bergh"
+        },
+        {
+          "given": "Dag Arne",
+          "family": "Christensen"
+        },
+        {
+          "given": "Bernt",
+          "family": "Aardal"
+        }
+      ],
+      "year": 2019,
+      "online_year": null,
+      "institutional_record_year": 2019,
+      "journal": "Norsk statsvitenskapelig tidsskrift",
+      "volume": "35",
+      "issue": "2",
+      "pages": "62-76",
+      "article_number": "",
+      "doi": "10.18261/issn.1504-2936-2019-02-01",
+      "url": "https://doi.org/10.18261/issn.1504-2936-2019-02-01",
+      "open_access_url": null,
+      "open_access_kind": null,
+      "open_access_evidence": [],
+      "topics": [
+        "Elections and opinion"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc67c740-9b7ee7a2-2d0b-43fe-bbab-3c3ce1a9be3f",
+        "https://api.crossref.org/works/10.18261/issn.1504-2936-2019-02-01"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "immigration-scenarios",
+      "title": "Påvirker innvandringsscenarier nordmenns holdninger til innvandrere? Et surveyeksperiment",
+      "authors": [
+        {
+          "given": "Dag Arne",
+          "family": "Christensen"
+        },
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Tor",
+          "family": "Midtbø"
+        }
+      ],
+      "year": 2019,
+      "online_year": null,
+      "institutional_record_year": 2019,
+      "journal": "Tidsskrift for samfunnsforskning",
+      "volume": "60",
+      "issue": "2",
+      "pages": "123-139",
+      "article_number": "",
+      "doi": "10.18261/issn.1504-291X-2019-02-01",
+      "url": "https://doi.org/10.18261/issn.1504-291X-2019-02-01",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc482164-f8c784c1-edfa-47a0-a3f7-737511983a91",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc482164-f8c784c1-edfa-47a0-a3f7-737511983a91",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by-nc/4.0",
+          "file": "article58236.pdf"
+        }
+      ],
+      "topics": [
+        "Elections and opinion"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc482164-f8c784c1-edfa-47a0-a3f7-737511983a91",
+        "https://api.crossref.org/works/10.18261/issn.1504-291X-2019-02-01"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "prediction-market-accuracy",
+      "title": "Explaining variance in the accuracy of prediction markets",
+      "authors": [
+        {
+          "given": "Oliver",
+          "family": "Strijbis"
+        },
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        }
+      ],
+      "year": 2019,
+      "online_year": null,
+      "institutional_record_year": 2018,
+      "journal": "International Journal of Forecasting",
+      "volume": "35",
+      "issue": "1",
+      "pages": "408-419",
+      "article_number": "",
+      "doi": "10.1016/j.ijforecast.2018.04.009",
+      "url": "https://doi.org/10.1016/j.ijforecast.2018.04.009",
+      "open_access_url": null,
+      "open_access_kind": null,
+      "open_access_evidence": [],
+      "topics": [
+        "Forecasting"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc917538-2ebfc11a-9767-4ca4-a51a-b39c1554d965",
+        "https://api.crossref.org/works/10.1016/j.ijforecast.2018.04.009"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "herd-immunity",
+      "title": "Could information about herd immunity help us achieve herd immunity? Evidence from a population representative survey experiment",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Kristine",
+          "family": "Bærøe"
+        },
+        {
+          "given": "Cornelius",
+          "family": "Cappelen"
+        },
+        {
+          "given": "Benedicte",
+          "family": "Carlsen"
+        }
+      ],
+      "year": 2018,
+      "online_year": 2018,
+      "institutional_record_year": 2018,
+      "journal": "Scandinavian Journal of Public Health",
+      "volume": "46",
+      "issue": "8",
+      "pages": "854-858",
+      "article_number": "",
+      "doi": "10.1177/1403494818770298",
+      "url": "https://doi.org/10.1177/1403494818770298",
+      "open_access_url": null,
+      "open_access_kind": null,
+      "open_access_evidence": [],
+      "topics": [
+        "Elections and opinion"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc50801d-21fe8a7a-5dcb-46b3-b4f8-992371a50d99",
+        "https://api.crossref.org/works/10.1177/1403494818770298"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "poll-feedback",
+      "title": "Do Polls Influence Opinions? Investigating Poll Feedback Loops Using the Novel Dynamic Response Feedback Experimental Procedure",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Mikael P.",
+          "family": "Johannesson"
+        },
+        {
+          "given": "Jonas",
+          "family": "Linde"
+        },
+        {
+          "given": "Stefan",
+          "family": "Dahlberg"
+        }
+      ],
+      "year": 2018,
+      "online_year": 2017,
+      "institutional_record_year": 2017,
+      "journal": "Social Science Computer Review",
+      "volume": "36",
+      "issue": "6",
+      "pages": "735-743",
+      "article_number": "",
+      "doi": "10.1177/0894439317731721",
+      "url": "https://doi.org/10.1177/0894439317731721",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc94b879-57f1ad38-61ef-43a5-8243-1fd1e39c2dd1",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc94b879-57f1ad38-61ef-43a5-8243-1fd1e39c2dd1",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by/4.0",
+          "file": "0894439317731721.pdf"
+        }
+      ],
+      "topics": [
+        "Elections and opinion"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc94b879-57f1ad38-61ef-43a5-8243-1fd1e39c2dd1",
+        "https://api.crossref.org/works/10.1177/0894439317731721"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "legitimacy-representation",
+      "title": "The Legitimacy of Representation: How Descriptive, Formal, and Responsiveness Representation Affect the Acceptability of Political Decisions",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Yvette",
+          "family": "Peters"
+        }
+      ],
+      "year": 2018,
+      "online_year": 2017,
+      "institutional_record_year": 2017,
+      "journal": "Comparative Political Studies",
+      "volume": "51",
+      "issue": "7",
+      "pages": "868-899",
+      "article_number": "",
+      "doi": "10.1177/0010414017720702",
+      "url": "https://doi.org/10.1177/0010414017720702",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc57a377-ac673c5b-c776-4b4e-ac7d-a33444aed53c",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc57a377-ac673c5b-c776-4b4e-ac7d-a33444aed53c",
+          "type": "NVA OpenFile",
+          "license": "https://creativecommons.org/licenses/by-nc/4.0",
+          "file": "0010414017720702.pdf"
+        }
+      ],
+      "topics": [
+        "Democratic legitimacy"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc57a377-ac673c5b-c776-4b4e-ac7d-a33444aed53c",
+        "https://api.crossref.org/works/10.1177/0010414017720702"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "legitimacy-influence",
+      "title": "Legitimacy from Decision-Making Influence and Outcome Favourability: Results from General Population Survey Experiments",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        }
+      ],
+      "year": 2017,
+      "online_year": 2017,
+      "institutional_record_year": 2017,
+      "journal": "Political Studies",
+      "volume": "65",
+      "issue": "1_suppl",
+      "pages": "146-161",
+      "article_number": "",
+      "doi": "10.1177/0032321716667956",
+      "url": "https://doi.org/10.1177/0032321716667956",
+      "open_access_url": null,
+      "open_access_kind": null,
+      "open_access_evidence": [],
+      "topics": [
+        "Democratic legitimacy"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc461d3a-09462eab-16e6-4f73-818b-443c8e894f44",
+        "https://api.crossref.org/works/10.1177/0032321716667956"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "social-embeddedness",
+      "title": "Sosial forankring og aktivt medlemskap i frivillige organisasjoner",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Bjarte",
+          "family": "Folkestad"
+        }
+      ],
+      "year": 2016,
+      "online_year": null,
+      "institutional_record_year": 2016,
+      "journal": "Nordiske organisasjonsstudier",
+      "volume": "18",
+      "issue": "3",
+      "pages": "53-73",
+      "article_number": "",
+      "doi": null,
+      "url": "https://nva.sikt.no/registration/0198cc7f9af6-ed2bb64c-9a8a-46ae-aae8-8470df690385",
+      "open_access_url": null,
+      "open_access_kind": null,
+      "open_access_evidence": [],
+      "topics": [
+        "Participation"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc7f9af6-ed2bb64c-9a8a-46ae-aae8-8470df690385"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "market-closeness",
+      "title": "Using prediction market data for measuring the expected closeness in electoral research",
+      "authors": [
+        {
+          "given": "Oliver",
+          "family": "Strijbis"
+        },
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Laurent",
+          "family": "Bernhard"
+        }
+      ],
+      "year": 2016,
+      "online_year": null,
+      "institutional_record_year": 2016,
+      "journal": "Electoral Studies",
+      "volume": "44",
+      "issue": "",
+      "pages": "144-150",
+      "article_number": "",
+      "doi": "10.1016/j.electstud.2016.07.006",
+      "url": "https://doi.org/10.1016/j.electstud.2016.07.006",
+      "open_access_url": null,
+      "open_access_kind": null,
+      "open_access_evidence": [],
+      "topics": [
+        "Forecasting"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc4076f2-b2be0c42-2aed-44fe-b84c-994044d8a3dc",
+        "https://api.crossref.org/works/10.1016/j.electstud.2016.07.006"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "prediction-markets-polls",
+      "title": "Prediction markets vs polls – an examination of accuracy for the 2008 and 2012 elections",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Ole",
+          "family": "Bergfjord"
+        }
+      ],
+      "year": 2014,
+      "online_year": 2015,
+      "institutional_record_year": 2014,
+      "journal": "The Journal of Prediction Markets",
+      "volume": "8",
+      "issue": "3",
+      "pages": "24-33",
+      "article_number": "",
+      "doi": "10.5750/jpm.v8i3.981",
+      "url": "https://doi.org/10.5750/jpm.v8i3.981",
+      "open_access_url": "https://nva.sikt.no/registration/0198cc624824-6dcdb5aa-1f71-40e6-830f-ee544a8d7211",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198cc624824-6dcdb5aa-1f71-40e6-830f-ee544a8d7211",
+          "type": "NVA OpenFile",
+          "license": "https://nva.sikt.no/license/copyright-act/1.0",
+          "file": "Arnesen.pdf"
+        }
+      ],
+      "topics": [
+        "Forecasting"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc624824-6dcdb5aa-1f71-40e6-830f-ee544a8d7211",
+        "https://api.crossref.org/works/10.5750/jpm.v8i3.981"
+      ],
+      "checked": "2026-10-25",
+      "metadata_note": "Citation year follows the journal issue (NVA and publisher). The electronic publication date is later than the issue year."
+    },
+    {
+      "id": "accuracy-bias",
+      "title": "Accuracy and bias in European prediction markets",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        },
+        {
+          "given": "Oliver",
+          "family": "Strijbis"
+        }
+      ],
+      "year": 2013,
+      "online_year": null,
+      "institutional_record_year": 2013,
+      "journal": "Statistica Applicata — Italian Journal of Applied Statistics",
+      "volume": "25",
+      "issue": "2",
+      "pages": "123-138",
+      "article_number": "",
+      "doi": null,
+      "url": "https://nva.sikt.no/registration/0198cc40589a-a6c10f05-10f4-4b8e-a135-42ddab0baa37",
+      "open_access_url": null,
+      "open_access_kind": null,
+      "open_access_evidence": [],
+      "topics": [
+        "Forecasting"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc40589a-a6c10f05-10f4-4b8e-a135-42ddab0baa37"
+      ],
+      "checked": "2026-10-25",
+      "metadata_note": "NVA records volume 25(2), 2013, pp. 123–138; the older authored UiB bibliography instead says 2015. The issue year 2013 is retained pending author review."
+    },
+    {
+      "id": "forecasting-norway",
+      "title": "Forecasting Norwegian elections: Out of work and out of office",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        }
+      ],
+      "year": 2012,
+      "online_year": null,
+      "institutional_record_year": 2012,
+      "journal": "International Journal of Forecasting",
+      "volume": "28",
+      "issue": "4",
+      "pages": "789-796",
+      "article_number": "",
+      "doi": "10.1016/j.ijforecast.2012.04.009",
+      "url": "https://doi.org/10.1016/j.ijforecast.2012.04.009",
+      "open_access_url": "https://hdl.handle.net/1956/7570",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198f22e6a39-4b827718-e9cc-43ae-8a19-bc5d93dfbe87",
+          "type": "BORA/NVA OpenFile",
+          "license": "https://nva.sikt.no/license/copyright-act/1.0",
+          "file": "Out of work an dout of office_2013.pdf"
+        }
+      ],
+      "topics": [
+        "Forecasting"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc84d9d9-256e31f8-ef5c-4503-8e4a-f00e638f68d4",
+        "https://api.crossref.org/works/10.1016/j.ijforecast.2012.04.009"
+      ],
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "events-and-vote",
+      "title": "How prediction markets help us understand events’ impact on the vote in US Presidential Elections",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        }
+      ],
+      "year": 2011,
+      "online_year": 2012,
+      "institutional_record_year": 2011,
+      "journal": "The Journal of Prediction Markets",
+      "volume": "5",
+      "issue": "3",
+      "pages": "42-63",
+      "article_number": "",
+      "doi": "10.5750/jpm.v5i3.492",
+      "url": "https://doi.org/10.5750/jpm.v5i3.492",
+      "open_access_url": "https://hdl.handle.net/1956/7569",
+      "open_access_kind": "repository",
+      "open_access_evidence": [
+        {
+          "source": "https://api.nva.unit.no/publication/0198f22c3cea-d1008659-20d3-4e88-aef5-c17ee8556d3a",
+          "type": "BORA/NVA OpenFile",
+          "license": "https://nva.sikt.no/license/copyright-act/1.0",
+          "file": "How prediction markets help us understand events_2013.pdf"
+        }
+      ],
+      "topics": [
+        "Forecasting"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc7dd084-8102f67a-67d5-484c-8345-dab190de6b4f",
+        "https://api.crossref.org/works/10.5750/jpm.v5i3.492"
+      ],
+      "checked": "2026-10-25",
+      "metadata_note": "Citation year follows the journal issue (NVA and publisher). The electronic publication date is later than the issue year."
+    },
+    {
+      "id": "informasjon-motivasjon",
+      "title": "Informasjon, motivasjon, prediksjon – Eit forsøk med prediksjonsmarknad før stortingsvalet 2009",
+      "authors": [
+        {
+          "given": "Sveinung",
+          "family": "Arnesen"
+        }
+      ],
+      "year": 2011,
+      "online_year": null,
+      "institutional_record_year": 2011,
+      "journal": "Tidsskrift for samfunnsforskning",
+      "volume": "52",
+      "issue": "1",
+      "pages": "99-121",
+      "article_number": "",
+      "doi": "10.18261/issn1504-291x-2011-01-04",
+      "url": "https://doi.org/10.18261/issn1504-291x-2011-01-04",
+      "open_access_url": null,
+      "open_access_kind": null,
+      "open_access_evidence": [],
+      "topics": [
+        "Forecasting"
+      ],
+      "selected": false,
+      "metadata_sources": [
+        "https://api.nva.unit.no/publication/0198cc456dcf-3bf87f21-d05e-4756-88f6-ce9679bdacb7",
+        "https://api.crossref.org/works/10.18261/issn1504-291x-2011-01-04"
+      ],
+      "checked": "2026-10-25"
+    }
+  ]
+}

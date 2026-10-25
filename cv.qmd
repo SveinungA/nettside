@@ -1,0 +1,39 @@
+---
+title: "CV"
+description: "Academic appointments, education, research, and teaching."
+---
+
+## Appointments
+
+**Research Professor (Forsker I)**  
+NORCE Norwegian Research Centre
+
+**Professor**  
+Department of Government, University of Bergen
+
+**National Coordinator, Norway**  
+European Social Survey
+
+## Education
+
+**PhD in Comparative Politics, 2012**  
+University of Bergen
+
+## Research interests
+
+Democratic legitimacy and procedural fairness; public opinion and political behaviour; AI in public administration; deliberation and democratic innovation; survey methodology and election forecasting.
+
+## Methods
+
+Survey experiments, deliberative polls, quantitative analysis, and reproducible research with R and Quarto.
+
+## Teaching
+
+Quantitative methods in the social sciences and the American political system.
+
+## Publications and institutional profiles
+
+[Journal articles](publications.qmd){.button-primary}
+
+[NORCE profile](https://www.norceresearch.no/en/persons/sveinung-arnesen/977) · [University of Bergen profile](https://www4.uib.no/en/find-employees/sveinung.arnesen) · [NVA research record](https://nva.sikt.no/research-profile/47571) · [ORCID](https://orcid.org/0000-0002-2825-0664)
+
